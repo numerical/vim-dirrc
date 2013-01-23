@@ -6,11 +6,11 @@ if exists("g:loaded_dirrc") || &cp
 endif
 let g:loaded_dirrc = 1
 
-if(!exists("g:dirrc_security")
+if(!exists("g:dirrc_security"))
   let g:dirrc_security = 1
 endif
 
-if(!exists("g:dirrc_resource_name")
+if(!exists("g:dirrc_resource_name"))
   let g:dirrc_resource_name = '.vimrc'
 endif
 
