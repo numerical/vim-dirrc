@@ -28,5 +28,5 @@ Assuming of course they exist
 
 If you install this plugin make sure you know where all .vimrc files come from
 An attacker could theoretically cause you to run shell commands without you
-knowing it. (hattip: Dan)
+knowing it. (hattip: daniel@binaryparadox.com)
 
